@@ -12,7 +12,7 @@ El nombre **akilia** se inspira en conceptos de *mente* e *inteligencia* (`akil`
 
 ### 🚀 Nuestros Productos Principales
 
-* **[yupana](https://github.com/akilia/yupana)**: Un moderno Sistema de Información Estudiantil (SIS) para la gestión integral de instituciones educativas.
+* **[yupana](https://github.com/akilia-labs/yupana)**: Un moderno Sistema de Información Estudiantil (SIS) para la gestión integral de instituciones educativas.
 
 * *(Próximamente: Nuevas soluciones para otras industrias...)*
 
@@ -22,8 +22,8 @@ El nombre **akilia** se inspira en conceptos de *mente* e *inteligencia* (`akil`
 
 Aunque nuestros productos principales son de código cerrado, creemos en contribuir a la comunidad y en la eficiencia del código compartido.
 
-* **[akilia.core](https://github.com/akilia/akilia.core)**: Nuestras librerías base .NET con abstracciones de Dominio y Aplicación para construir sistemas bajo principios de Arquitectura Limpia.
-* **[akilia.design](https://github.com/akilia/akilia.design)**: Recursos de nuestro sistema de diseño (próximamente).
+* **[akilia.core](https://github.com/akilia-labs/akilia.core)**: Nuestras librerías base .NET con abstracciones de Dominio y Aplicación para construir sistemas bajo principios de Arquitectura Limpia.
+* **[akilia.design](https://github.com/akilia-labs/akilia.design)**: Recursos de nuestro sistema de diseño (próximamente).
 
 ---
 
