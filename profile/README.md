@@ -12,7 +12,7 @@ El nombre **akilia** se inspira en conceptos de *mente* e *inteligencia* (`akil`
 
 ### 🚀 Nuestros Productos Principales
 
-* **[yupana](https://github.com/akilia-labs/yupana)**: Un moderno Sistema de Información Estudiantil (SIS) para la gestión integral de instituciones educativas.
+* **[yupana](https://github.com/akilia-labs/yupana)**: Una moderna Plataforma Estudiantil (SIS) para la gestión integral de instituciones educativas.
 
 * *(Próximamente: Nuevas soluciones para otras industrias...)*
 
